@@ -20,7 +20,7 @@ This project is an interactive sales dashboard built using Streamlit and Plotly.
 
 ### 🏗️ Installation ###
 1. Clone the Repository:
-### https://github.com/OforiPrescott/Customer-Sales-Trend-.git
+### https://github.com/OforiPrescott/Customer-Behavior-and-Sales-Trends.git
 ### cd sales-dashboard
 
 2. Install Dependencies:
