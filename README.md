@@ -37,12 +37,11 @@ conn = pyodbc.connect("DRIVER={SQL Server};SERVER=PresHacks;DATABASE=SalesDB;Tru
 
 
 ### Logo Update: Replace logo22.jpg with your company logo in the same directory.
+![Screenshot 2025-02-20 151158](https://github.com/user-attachments/assets/4b99f335-c264-4300-a300-134738923acb)
 
-![Screenshot 2025-02-20 151247](https://github.com/user-attachments/assets/3cad636e-7c5f-4b0f-a32b-9b90822f6cc2)
+![Screenshot 2025-02-20 151222](https://github.com/user-attachments/assets/0866e5ec-7b4b-420c-88f2-5a7e293eeeb8)
+![Screenshot 2025-02-20 151247](https://github.com/user-attachments/assets/e9baaebd-0add-46c1-8e28-cc86cfb7a967)
 
-![Screenshot 2025-02-20 151222](https://github.com/user-attachments/assets/a89759f1-8a28-4d81-b0c8-ccb9b64c81cb)
-
-![Screenshot 2025-02-20 151158](https://github.com/user-attachments/assets/73520a7e-d59e-4a83-8d0f-68cd441140f0)
 
 
 
